@@ -1,4 +1,4 @@
-\#output
+#output
 
-!\[code output](output.png)
+![code output](output.png)
 
